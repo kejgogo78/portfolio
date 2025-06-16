@@ -1,0 +1,57 @@
+body {
+  margin : 0;
+  background-color: #303030;
+  color : white
+}
+ 
+.title {
+  text-align: center;
+  margin-top: 150px;
+}
+.title-sub {
+  text-align: center;
+}
+
+.food {
+  margin: 20px auto;
+  width: 200px;
+  background: white;
+  color: black;
+  padding: 20px;
+  border-radius: 5px;
+} 
+
+.navbar2 {
+  background: rgb(0, 0, 0);
+  padding: 20px;
+  color : white
+}
+.navbar2 a {
+  margin-right: 20px;
+  text-decoration: none;
+  font-size: 20;
+  font-weight: bold;
+  color:rgb(255, 255, 255);
+} 
+.navbar2 span {
+  margin-right: 60px;
+  text-decoration: none;
+} 
+
+
+
+.navbar {
+  background: white;
+  padding: 20px;
+}
+.navbar a {
+  margin-right: 20px;
+  text-decoration: none;
+  font-size: 20;
+  font-weight: bold;
+  color:rgb(10, 67, 60);
+} 
+.navbar img {
+  margin-right: 30px;
+  text-decoration: none;
+} 

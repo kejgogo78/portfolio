@@ -1,0 +1,44 @@
+<svg xmlns = "http://www.w3.org/2000/svg"
+     xmlns:xlink = "http://www.w3.org/1999/xlink"
+     viewBox = "0 0 393.27 105.1">
+	<defs>
+		<style>
+			.cls-1,.cls-2,.cls-3,.cls-4{fill-rule:evenodd;}.cls-1{fill:url(#무제_그라디언트_2);}.cls-2{fill:#462b8d;}.cls-3{fill:#6d44d6;}.cls-4{fill:#301b8d;}.cls-5{fill:#fff;}
+		</style>
+		<linearGradient id = "무제_그라디언트_2"
+		                y1 = "245.72"
+		                x2 = "91.13"
+		                y2 = "245.72"
+		                gradientTransform = "matrix(1, 0, 0, -1, 0, 272.5)"
+		                gradientUnits = "userSpaceOnUse">
+			<stop offset = "0"
+			      stop-color = "#ad17ca"/>
+			<stop offset = "1"
+			      stop-color = "#3d41cb"/>
+		</linearGradient>
+	</defs>
+	<g id = "Layer_2"
+	   data-name = "Layer 2">
+		<g id = "레이어_1"
+		   data-name = "레이어 1">
+			<path class = "cls-1"
+			      d = "M45.52,0,91,26.11v1L45.52,53.55,0,27.11v-1Z"/>
+			<path class = "cls-2"
+			      d = "M0,26.11,45.52,52.55l1,.58,0,50.91-1,1v.06L0,78.65Z"/>
+			<path class = "cls-3"
+			      d = "M91,26.11V78.65L45.52,105.1V52.55Z"/>
+			<path class = "cls-3"
+			      d = "M13.72,34.14l31.8-18.07V89L13.72,71,24.43,52.55Z"/>
+			<path class = "cls-4"
+			      d = "M77.32,34.14,45.52,16.07V89L77.32,71,66.6,52.55Z"/>
+			<path class = "cls-5"
+			      d = "M201.72,25.1l-8.9,9.95V79.79h44l10.7-11.72h-43V58.31h31.93l10.69-11.72H204.54V36.82h32.27l10.7-11.72Z"/>
+			<path class = "cls-5"
+			      d = "M274.63,25.1l-8.91,9.95V79.79h44L320.4,68.07h-43V58.31h31.94l10.69-11.72H277.43V36.82h32.28L320.4,25.1Z"/>
+			<path class = "cls-5"
+			      d = "M347.5,25.1h45.77L382.58,36.82H350.3v9.77h43V69.84l-8.91,10H338.58V68.07h43V58.31h-43V35.05Z"/>
+			<path class = "cls-5"
+			      d = "M135.56,25.1H123.84V79.79h11.72V58.31h8.12L162.9,79.79h15.63L154.07,52.45,178.53,25.1H162.9L143.68,46.59h-8.12Z"/>
+		</g>
+	</g>
+</svg>
