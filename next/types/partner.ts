@@ -10,7 +10,7 @@ export interface Partner {
     address: string;            // 주소1
     addressDetail: string;      // 주소2
     postalCode: string;         // 우편번호
-    partnerType: number;        // 사업자종류(1:일반,2:인플루엔서)
+    partnerType: number;        // 종류
     
 }  
 
