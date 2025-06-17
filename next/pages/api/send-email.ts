@@ -32,14 +32,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
       subject: '[서비스] 임시 비밀번호가 발급되었습니다. (** 로그인 후 꼭 변경해주세요)',
       html: message,    // HTML 본문 사용
     });
-    /*
-    await transporter.sendMail({
-      from: `KEES 관리자" <${process.env.EMAIL_USER}>`,
-      to: `"${name}" <${email}>`, // 수신자 이메일
-      subject: '[KEES 서비스] 임시 비밀번호가 발급되었습니다. (** 로그인 후 꼭 변경해주세요)',
-      // text: message, // 제거
-      html: message,    // HTML 본문 사용
-    });*/
+    
 
     res.status(200).json({ message: '메일 전송 성공' });
   } catch (error) {
