@@ -21,7 +21,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
         //user: process.env.EMAIL_USER, // Gmail 주소 (관리자)
         //pass: process.env.EMAIL_PASS, // Gmail 앱 비밀번호 (보통 16자리) 
         user: "kejgogo78@gmail.com", // Gmail 주소 (관리자)
-        pass: "smwbrrzvjvfldsyv", // Gmail 앱 비밀번호 (보통 16자리) 
+        pass: "11111111111111111111", // Gmail 앱 비밀번호 (보통 16자리) 
         
       },
     });
